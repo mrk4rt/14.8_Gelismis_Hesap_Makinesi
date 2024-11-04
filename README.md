@@ -1,0 +1,2 @@
+# 14.8_Gelismis_Hesap_Makinesi
+14.8_Gelismis_Hesap_Makinesi
